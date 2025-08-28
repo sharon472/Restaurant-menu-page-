@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+  padding: 20px;
+  background-image: url(https://images.pexels.com/photos/16266744/pexels-photo-16266744.jpeg);
+  background-size: cover;   
+  background-position: center; 
+  background-attachment: fixed; 
+  color: rgb(201, 214, 252);  
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin: 20px 0 10px;
+  text-transform: uppercase;
+}
+
+.menu {
+  margin: 30px auto;
+  max-width: 700px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+  font-size: 18px;
+}
+
+td.price {
+  text-align: right;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+
