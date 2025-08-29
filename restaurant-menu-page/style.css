@@ -7,7 +7,7 @@ body {
   background-size: cover;   
   background-position: center; 
   background-attachment: fixed; 
-  color: rgb(201, 214, 252);  
+  color: rgb(252, 201, 248);  
   text-align: center;
   font-family: Arial, sans-serif;
 
@@ -56,4 +56,9 @@ color: rgb(245, 162, 39);
 
 footer:hover{
     color: rgb(245,162,39);
+
+}
+section:hover{
+    color: rgb(240, 209, 163);
+    color: ;
 }
