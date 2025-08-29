@@ -32,7 +32,7 @@ h2 {
   max-width: 700px;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px rgba(240, 111, 5, 0.1);
 }
 
 table {
@@ -50,5 +50,10 @@ td.price {
   font-weight: bold;
   white-space: nowrap;
 }
+header:hover{
+color: rgb(245, 162, 39);
+}
 
-
+footer:hover{
+    color: rgb(245,162,39);
+}
